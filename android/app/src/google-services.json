@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126374868651",
+    "project_id": "portoapp-3a2b3",
+    "storage_bucket": "portoapp-3a2b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126374868651:android:03e0a5684f8c47d74a69ee",
+        "android_client_info": {
+          "package_name": "com.example.portfolio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126374868651-qh305pgfob4rm9jqu8hf41kllhkgb8ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiHZaGumdEdSLnNvNem_rWVTvoDMai_zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126374868651-qh305pgfob4rm9jqu8hf41kllhkgb8ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
